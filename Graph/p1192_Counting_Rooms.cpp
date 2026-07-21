@@ -1,8 +1,8 @@
 // Problem: Counting Rooms
 // Platform: CSES
-// Difficulty: Easy
+// Difficulty: Medium
 // Link: https://cses.fi/problemset/task/1192
-// Topics: Graph Components count
+// Topics: 2D Grid DFS, Components count
 /*
 Time limit: 1.00 s
 Memory limit: 512 MB
